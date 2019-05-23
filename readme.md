@@ -1,6 +1,8 @@
 TCPRelayInjecter
 ============
 
+**UPDATE** : You should check a more recent version of the TCPRelayInjecter that uses a different (simpler) technique of DLLinjection as well as supports 32 and 64 bits target processes [TCPRelayInjecter2](https://github.com/Arno0x/TCPRelayInjecter2)
+
 Author: [Arno0x](https://twitter.com/Arno0x0x).
 
 This project is heavily based on [SharpNeedle](https://github.com/ChadSki/SharpNeedle).
